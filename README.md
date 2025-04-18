@@ -81,3 +81,6 @@ Based on the model's findings, financial institutions can consider the following
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+![Screenshot 2025-04-18 144836](https://github.com/user-attachments/assets/ddd494b9-66ae-4e16-87e4-b095809eaf5c)
